@@ -1,11 +1,4 @@
-# I-Am-Rich-Hommie-multimedia.github.io
-📁 hommie-multimedia.github.io
-├── index.html
-├── style.css
-├── /images/
-│   ├── wedding1.jpg
-│   ├── portrait1.jpg
-│   └── nature1.jpg
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
